@@ -1,6 +1,6 @@
 body {
-    background: #CCCCCC
-}
+    background: #afbbc9 
+
 
 #banner {
     width: 100%;
@@ -19,5 +19,10 @@ p {
 }
 
 em strong {
-    color: #FF0000;
+    color: #ff0000;
 }
+
+.itens{   
+         font-style: italic;
+}
+        
